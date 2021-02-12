@@ -1,6 +1,8 @@
 ### Read me !
 
 #### I’m currently working on KEPCO ⚡
+- 2019 Data Analysis 유공 (CEO 상)
+- 2020 Data Analysis 유공 (CEO 상)
 
 ##### I Love 
 - Backend develop (Java & Python)
