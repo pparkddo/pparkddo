@@ -6,7 +6,7 @@
 - Backend develop (Java & Python)
 - Automation
 - Financial
-- 도전!
+- Learning new tech & concepts
 
 ##### Interest
 - System Architecture (MSA)
@@ -15,4 +15,5 @@
 
 ##### I Enjoy
 - ctf
+  - 2020 산업부 사이버보안 경진대회 2등 (장관상)
 - problem solving
