@@ -1,16 +1,18 @@
-### Hi there 👋
+### Read me !
 
-<!--
-**pparkddo/pparkddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I’m currently working on KEPCO ⚡
 
-Here are some ideas to get you started:
+##### I Love 
+- Backend develop (Java & Python)
+- Automation
+- Financial
+- 도전!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Interest
+- System Architecture (MSA)
+- Big Data Processing (Spark)
+- Clean code
+
+##### I Enjoy
+- ctf
+- problem solving
